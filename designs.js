@@ -8,7 +8,7 @@
 		height = $('#inputHeight').val();
 		width = $('#inputWeight').val();
 		makeGrid(height, width); 
-		console.log('Height: ' + height + ' and width: ' + width);
+// 		console.log('Height: ' + height + ' and width: ' + width);
 	})
 
 function makeGrid(a, b) {
@@ -24,7 +24,7 @@ function makeGrid(a, b) {
 	// Add color to cell
 		$('td').click(function addColor()	{
 			color = $('#colorPicker').val();
-
+// 	Remove a color in a cell
 			if ($(this).attr('style'))		{
 				$(this).removeAttr('style')
 			} else {
