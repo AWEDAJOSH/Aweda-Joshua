@@ -1,4 +1,4 @@
-PIXEL ART MAKER - JOSHUA'S PROJECT https://www.pixelartmaker.com
+https://awedajosh.github.io/Pixel-Art-Maker/.
 
 # Pixel Art Maker Project
 
@@ -17,4 +17,4 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-PIXEL ART MAKER - JOSHUA'S PROJECT https://www.pixelartmaker.com
+PIXEL ART MAKER - JOSHUA'S PROJECT https://awedajosh.github.io/Pixel-Art-Maker/.
